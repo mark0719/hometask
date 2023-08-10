@@ -1,0 +1,10 @@
+.boxStyle {
+  border-radius: 16px;
+  background: #FFF;
+  box-shadow: 0px 3px 24px 0px rgba(130, 139, 151, 0.06);
+  padding: 16px;
+}
+
+.boxStyle div:last-child .horizontalStyle {
+  display: none;
+}

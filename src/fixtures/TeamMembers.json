@@ -1,0 +1,124 @@
+{
+  "users":[
+    {
+      "id": 1,
+      "status": "approved",
+      "user": {
+        "id": 101,
+        "name": "John",
+        "lastName": "Doe",
+        "phone": "+353 1234567",
+        "email": "john.doe@example.com"
+      },
+      "role": "Administrator"
+    },
+    {
+      "id": 2,
+      "status": "pending",
+      "user": {
+        "id": 102,
+        "name": "Jane",
+        "lastName": "Smith",
+        "phone": "+353 2345678",
+        "email": "jane.smith@example.com"
+      },
+      "role": "Standard"
+    },
+    {
+      "id": 3,
+      "status": "approved",
+      "user": {
+        "id": 103,
+        "name": "Michael",
+        "lastName": "Johnson",
+        "phone": "+353 3456789",
+        "email": "michael.johnson@example.com"
+      },
+      "role": "Standard"
+    },
+    {
+      "id": 4,
+      "status": "invited",
+      "user": {
+        "id": 104,
+        "name": "Emily",
+        "lastName": "Brown",
+        "phone": "+353 4567890",
+        "email": "emily.brown@example.com"
+      },
+      "role": "Standard"
+    },
+    {
+      "id": 5,
+      "status": "declined",
+      "user": {
+        "id": 105,
+        "name": "William",
+        "lastName": "Wilson",
+        "phone": "+353 5678901",
+        "email": "william.wilson@example.com"
+      },
+      "role": "Administrator"
+    },
+    {
+      "id": 6,
+      "status": "pending",
+      "user": {
+        "id": 106,
+        "name": "Samantha",
+        "lastName": "Jones",
+        "phone": "+353 6789012",
+        "email": "samantha.jones@example.com"
+      },
+      "role": "Standard"
+    },
+    {
+      "id": 7,
+      "status": "approved",
+      "user": {
+        "id": 107,
+        "name": "David",
+        "lastName": "Miller",
+        "phone": "+353 7890123",
+        "email": "david.miller@example.com"
+      },
+      "role": "Administrator"
+    },
+    {
+      "id": 8,
+      "status": "invited",
+      "user": {
+        "id": 108,
+        "name": "Olivia",
+        "lastName": "Davis",
+        "phone": "+353 8901234",
+        "email": "olivia.davis@example.com"
+      },
+      "role": "Standard"
+    },
+    {
+      "id": 9,
+      "status": "pending",
+      "user": {
+        "id": 109,
+        "name": "Daniel",
+        "lastName": "Martinez",
+        "phone": "+353 9012345",
+        "email": "daniel.martinez@example.com"
+      },
+      "role": "Standard"
+    },
+    {
+      "id": 10,
+      "status": "approved",
+      "user": {
+        "id": 110,
+        "name": "Sophia",
+        "lastName": "Garcia",
+        "phone": "+353 0123456",
+        "email": "sophia.garcia@example.com"
+      },
+      "role": "Standard"
+    }     
+  ]
+}

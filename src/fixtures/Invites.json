@@ -1,0 +1,54 @@
+{
+  "invites": [
+    {
+      "id": 1,
+      "phone": "+353 1234567",
+      "role": "Standard"
+    },
+    {
+      "id": 2,
+      "phone": "+353 2345678",
+      "role": "Administrator"
+    },
+    {
+      "id": 3,
+      "phone": "+353 3456789",
+      "role": "Standard"
+    },
+    {
+      "id": 4,
+      "phone": "+353 4567890",
+      "role": "Standard"
+    },
+    {
+      "id": 5,
+      "phone": "+353 5678901",
+      "role": "Administrator"
+    },
+    {
+      "id": 6,
+      "phone": "+353 6789012",
+      "role": "Standard"
+    },
+    {
+      "id": 7,
+      "phone": "+353 7890123",
+      "role": "Standard"
+    },
+    {
+      "id": 8,
+      "phone": "+353 8901234",
+      "role": "Administrator"
+    },
+    {
+      "id": 9,
+      "phone": "+353 9012345",
+      "role": "Standard"
+    },
+    {
+      "id": 10,
+      "phone": "+353 0123456",
+      "role": "Standard"
+    }    
+  ]
+}
